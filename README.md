@@ -2,6 +2,11 @@
 
 **nc_icon** is a Windows command-line tool that automatically sets folder icons to movie posters (or artwork) found inside each folder. It can also intelligently rename common artwork files to standardized names.
 
+### Before
+![Before](data/before.PNG)
+### After
+![After](data/after.PNG)
+
 ## Features
 
 - **Automatic icon generation**: Finds `poster.jpg`, `folder.png`, or similar artwork in a folder and creates a `folder.ico` from it
