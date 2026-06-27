@@ -105,7 +105,7 @@ build.bat
 ```
 
 > [!WARNING]
-> Requires cl.exe and link.exe to be installed and on path in order
+> Requires cl.exe, link.exe and ml64.exe to be installed and on path in order
 > to compile and link
 
 
