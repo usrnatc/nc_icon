@@ -523,7 +523,6 @@ EntryPoint(CommandLine* CLI)
         ReleaseScratch(Scratch);
     }
 
-    // 4. Sync and Teardown on Lane 0
     LaneSync();
 
     if (!LaneIndex()) {
